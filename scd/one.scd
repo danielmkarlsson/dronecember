@@ -1,6 +1,6 @@
 (
-Pdef(0,
-    Pseed(6,
+Pdef(0,  
+    Pseed(6,  
         Pbind(*[
             type: Pwrand2([\cln, \], [1, 2], inf),
             snd: Pxshuf([\dfd, \ixa, \saw, \sqr], inf),
